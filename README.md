@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/muskan8006/Competitive-Programming/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1288-remove-covered-intervals](https://github.com/muskan8006/Competitive-Programming/tree/master/1288-remove-covered-intervals) |
+| [1301-number-of-paths-with-max-score](https://github.com/muskan8006/Competitive-Programming/tree/master/1301-number-of-paths-with-max-score) |
 ## Hash Table
 |  |
 | ------- |
@@ -14,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/muskan8006/Competitive-Programming/tree/master/1288-remove-covered-intervals) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/muskan8006/Competitive-Programming/tree/master/1301-number-of-paths-with-max-score) |
+## Matrix
+|  |
+| ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/muskan8006/Competitive-Programming/tree/master/1301-number-of-paths-with-max-score) |
 <!---LeetCode Topics End-->
