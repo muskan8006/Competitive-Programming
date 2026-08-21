@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/muskan8006/Competitive-Programming/tree/master/0486-predict-the-winner) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/muskan8006/Competitive-Programming/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/muskan8006/Competitive-Programming/tree/master/0628-maximum-product-of-three-numbers) |
+| [0875-koko-eating-bananas](https://github.com/muskan8006/Competitive-Programming/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/muskan8006/Competitive-Programming/tree/master/0877-stone-game) |
 | [0962-maximum-width-ramp](https://github.com/muskan8006/Competitive-Programming/tree/master/0962-maximum-width-ramp) |
 | [1140-stone-game-ii](https://github.com/muskan8006/Competitive-Programming/tree/master/1140-stone-game-ii) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/muskan8006/Competitive-Programming/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0875-koko-eating-bananas](https://github.com/muskan8006/Competitive-Programming/tree/master/0875-koko-eating-bananas) |
 | [3312-sorted-gcd-pair-queries](https://github.com/muskan8006/Competitive-Programming/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/muskan8006/Competitive-Programming/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/muskan8006/Competitive-Programming/tree/master/3532-path-existence-queries-in-a-graph-i) |
