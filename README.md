@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/muskan8006/Competitive-Programming/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/muskan8006/Competitive-Programming/tree/master/0051-n-queens) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/muskan8006/Competitive-Programming/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/muskan8006/Competitive-Programming/tree/master/0486-predict-the-winner) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/muskan8006/Competitive-Programming/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/muskan8006/Competitive-Programming/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/muskan8006/Competitive-Programming/tree/master/0051-n-queens) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/muskan8006/Competitive-Programming/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Nim Game
 |  |
@@ -322,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/muskan8006/Competitive-Programming/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/muskan8006/Competitive-Programming/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
