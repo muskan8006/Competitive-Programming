@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/muskan8006/Competitive-Programming/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/muskan8006/Competitive-Programming/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/muskan8006/Competitive-Programming/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/muskan8006/Competitive-Programming/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1872-stone-game-viii](https://github.com/muskan8006/Competitive-Programming/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/muskan8006/Competitive-Programming/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/muskan8006/Competitive-Programming/tree/master/2029-stone-game-ix) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/muskan8006/Competitive-Programming/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/muskan8006/Competitive-Programming/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/muskan8006/Competitive-Programming/tree/master/1510-stone-game-iv) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/muskan8006/Competitive-Programming/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1872-stone-game-viii](https://github.com/muskan8006/Competitive-Programming/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/muskan8006/Competitive-Programming/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/muskan8006/Competitive-Programming/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/muskan8006/Competitive-Programming/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/muskan8006/Competitive-Programming/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/muskan8006/Competitive-Programming/tree/master/1510-stone-game-iv) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/muskan8006/Competitive-Programming/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1872-stone-game-viii](https://github.com/muskan8006/Competitive-Programming/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/muskan8006/Competitive-Programming/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/muskan8006/Competitive-Programming/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/muskan8006/Competitive-Programming/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2685-count-the-number-of-complete-components](https://github.com/muskan8006/Competitive-Programming/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/muskan8006/Competitive-Programming/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
@@ -262,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/muskan8006/Competitive-Programming/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/muskan8006/Competitive-Programming/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/muskan8006/Competitive-Programming/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/muskan8006/Competitive-Programming/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -357,13 +362,31 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/muskan8006/Competitive-Programming/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/muskan8006/Competitive-Programming/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/muskan8006/Competitive-Programming/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/muskan8006/Competitive-Programming/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Geometry
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/muskan8006/Competitive-Programming/tree/master/0836-rectangle-overlap) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/muskan8006/Competitive-Programming/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/muskan8006/Competitive-Programming/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/muskan8006/Competitive-Programming/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/muskan8006/Competitive-Programming/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
