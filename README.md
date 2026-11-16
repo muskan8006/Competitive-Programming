@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/muskan8006/Competitive-Programming/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/muskan8006/Competitive-Programming/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/muskan8006/Competitive-Programming/tree/master/1927-sum-game) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/muskan8006/Competitive-Programming/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/muskan8006/Competitive-Programming/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/muskan8006/Competitive-Programming/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/muskan8006/Competitive-Programming/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/muskan8006/Competitive-Programming/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0962-maximum-width-ramp](https://github.com/muskan8006/Competitive-Programming/tree/master/0962-maximum-width-ramp) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/muskan8006/Competitive-Programming/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/muskan8006/Competitive-Programming/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/muskan8006/Competitive-Programming/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/muskan8006/Competitive-Programming/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/muskan8006/Competitive-Programming/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/muskan8006/Competitive-Programming/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/muskan8006/Competitive-Programming/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/muskan8006/Competitive-Programming/tree/master/1927-sum-game) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/muskan8006/Competitive-Programming/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2029-stone-game-ix](https://github.com/muskan8006/Competitive-Programming/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/muskan8006/Competitive-Programming/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/muskan8006/Competitive-Programming/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0962-maximum-width-ramp](https://github.com/muskan8006/Competitive-Programming/tree/master/0962-maximum-width-ramp) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/muskan8006/Competitive-Programming/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/muskan8006/Competitive-Programming/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -428,4 +432,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/muskan8006/Competitive-Programming/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/muskan8006/Competitive-Programming/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 <!---LeetCode Topics End-->
